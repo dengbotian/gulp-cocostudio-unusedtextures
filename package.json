@@ -1,0 +1,28 @@
+{
+  "name": "gulp-cocostudio-unusedtextures",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dengbotian/gulp-cocostudio-unusedtextures.git"
+  },
+  "keywords": [
+    "cocostudio"
+  ],
+  "author": "dengzhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dengbotian/gulp-cocostudio-unusedtextures/issues"
+  },
+  "homepage": "https://github.com/dengbotian/gulp-cocostudio-unusedtextures",
+  "dependencies": {
+    "gulp-util": "^3.0.1",
+    "jspath": "^0.2.12",
+    "through2": "^0.6.2",
+    "underscore": "^1.7.0"
+  }
+}
